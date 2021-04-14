@@ -1,0 +1,17 @@
+.dragContainer{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.dragBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+    border: 2px solid grey;
+    margin-bottom: 10px;
+}
+
+.dragContainer button{
+    width: 100%;
+}
